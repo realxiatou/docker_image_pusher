@@ -1,5 +1,1 @@
-perl
-tomcat
-php
-java
 flink
