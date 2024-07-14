@@ -1,17 +1,2 @@
-haproxy
-haproxy:alpine
-haproxy:3.0
-centos:centos7.9.2009
-centos:centos8.4.2105
-centos:centos7.8.2003
-centos:centos6.10
-centos:7.6.1810
-sonarqube:community
-sonarqube:enterprise
-sonarqube:developer
-nextcloud:production-fpm-alpine
-nextcloud:29.0.3-fpm-alpine
-rabbitmq:3.13-management
-traefik
 traefik:windowsservercore-1809
 caddy:builder-windowsservercore-1809
