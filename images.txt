@@ -1,7 +1,7 @@
-ubuntu:oracular
-ubuntu:devel
-ubuntu:jammy
-ubuntu:rolling
-ubuntu:noble
-ubuntu:mantic
-ubuntu:focal
+node
+mariadb:11.2.4
+mariadb:11.1
+mariadb
+php:8.2-cli
+php:8.2-fpm
+php
